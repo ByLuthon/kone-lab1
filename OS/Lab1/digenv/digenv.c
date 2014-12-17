@@ -1,16 +1,14 @@
 /*
+* The use of this code is not allow
+* The task was to write a program that works
+* As a simple command interpreter (shell) for UNIX.
+* The idea is that the program should allow the user to enter
+* Commands until he / she chooses to exit the command prompt with the command "exit".
 *
-* Den är programmet är skapat av Luthon Hagvinprice
-* För mer information kontakta Email kone@kth.se
+*Copyright Created by Luthon Hagvinprice on 06/12/14.
+* kone@kth.se
 *
- *
- * Program which simulates printenv | sort | less
- * If parameters are available it shall printenv | grep [parameterlist] | sort | less
- * 
- * int argv - number of parameters
- * char ** argc - list of paramters
- * 
-*
+* Student of ICT KTH Kista information than communication technology
 */
 #include <unistd.h>
 #include <sys/types.h>
